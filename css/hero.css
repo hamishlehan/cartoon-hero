@@ -4,22 +4,24 @@ html, body{
 }
 
 header{
-	background-color: #262673;
-	padding: 40px;
+	background-image: url("https://vignette.wikia.nocookie.net/newdcmovieuniverse/images/c/ce/Gcskyline.png/revision/latest?cb=20160223181953");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    padding: 40px;
 	text-align: center;
 }
 
 h1{
 	font-size: 90px;
 	color: white;
-	text-shadow: 10px 10px 30px #00004d;
+	text-shadow: 10px 10px 30px black;
 }
 
 header img{
 	width: 300px;
 	border-radius: 174px;
 	border: 24px solid #000033;
-	box-shadow: 10px 10px 30px #00004d;
+	box-shadow: 10px 10px 30px black;
 }
 
 .content{
